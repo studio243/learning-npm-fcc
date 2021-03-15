@@ -1,0 +1,22 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "studio243.net",
+	"description":"A project to learn APIs and Mircoservices from freecodecamp",
+	"keywords":[
+		"freecodecamp","learning","api","microservices"
+	],
+	"license":" AFL-1.1",
+	"version":"0.0.1",
+	"dependencies": {
+		"express": "^4.14.0",
+		"moment":"^2.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/studio243/learning-npm-fcc.git"
+	}
+}
